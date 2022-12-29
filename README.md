@@ -19,3 +19,4 @@ music 蜂鳴器
 使用矩陣LED
 
 ## final project
+電子琴搭配錄音功能
